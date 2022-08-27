@@ -16,8 +16,10 @@ export const config = {
     city: "郑州",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "老婆", "year": "1993", "date": "12-27", "type": 'new'},
-      {"name": "家公", "year": "1993", "date": "08-09", "type": 'new'},
+      {"name": "老婆", "year": "1986", "date": "12-03", "type": 'r'},
+      {"name": "老公", "year": "1987", "date": "08-02", "type": 'r'},
+      {"name": "儿子", "year": "2017", "date": "11-04", "type": 'new'},
+      {"name": "女儿", "year": "2007", "date": "09-08", "type": 'new'},
     ],
     // 在一起的日子，格式同上
     loveDate: "2015-05-01",
